@@ -1,0 +1,7 @@
+I am a ham and some people call me sam.  
+
+This is our first commit.
+
+This is line number 5.
+
+Will is the best dude eva!
